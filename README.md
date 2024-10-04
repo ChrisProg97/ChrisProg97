@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Chrispin Jossam @ChrisProg97
-- 👀 I’m interested in Web development
-- 🌱 I’m currently learning spring boot and React Js
-- 💞️ I’m looking to collaborate on Web development projects that use spring boot
+- 👀 I’m interested in Web and app development
+- 🌱 I’m currently learning Nuxt js and flutter
+- 💞️ I’m looking to collaborate on Web and app development projects that use Nuxt js and flutter
 - 📫 How to reach me, chrispingjossam@gmail.com 
 
 <!---
