@@ -24,7 +24,7 @@
 
 📫 Let's Connect
 
-📧 Email: chrispingjossam@gmail.com
+📧 Email: chrispinjossam@gmail.com
 
 🔗 GitHub: ChrisProg97
 
